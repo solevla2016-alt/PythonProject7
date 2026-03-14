@@ -38,16 +38,29 @@ class AeroplanesAPI(BaseAPI):
 
         return south, north, west, east
 
-    def get_aeroplanes(self, country: str):
+    def get_aeroplanes(self, country: str) -> list:
+        """Получение самолетов в воздушном пространстве страны."""
 
         south, north, west, east = self.get_country_bbox(country)
 
-        params = {"lamin": south, "lamax": north, "lomin": west, "lomax": east}
+        url = (
+            f"https://opensky-network.org/api/states/all?"
+            f"lamin={south}&lomin={west}&lamax={north}&lomax={east}"
+        )
 
-        headers = {"User-Agent": "aeroplanes_project"}
+        response = requests.get(url)
 
-        response = requests.get(self.__OPENSKY_URL, params=params, headers=headers)
+        if response.status_code != 200:
+            return []
 
         data = response.json()
 
-        return data.get("states", [])
+        states = data.get("states")
+
+        if not states:
+            return []
+
+        # фильтруем пустые записи
+        planes = [s for s in states if s[1]]
+
+        return planes[:100]
