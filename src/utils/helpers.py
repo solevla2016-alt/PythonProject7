@@ -1,5 +1,16 @@
 def filter_aeroplanes(aeroplanes, countries):
-    return [a for a in aeroplanes if a.country in countries]
+    """Фильтр самолетов по стране регистрации."""
+
+    if not countries:
+        return aeroplanes
+
+    filtered = []
+
+    for plane in aeroplanes:
+        if plane.country in countries:
+            filtered.append(plane)
+
+    return filtered
 
 
 def get_top_aeroplanes(aeroplanes, n):
