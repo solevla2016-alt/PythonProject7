@@ -7,6 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+requests = "^2.32.5"
 
 
 [tool.poetry.group.dev.dependencies]
@@ -14,7 +15,37 @@ black = "^26.3.1"
 flake8 = "^7.3.0"
 isort = "^8.0.1"
 mypy = "^1.19.1"
+pytest = "^9.0.2"
+pytest-cov = "^7.0.0"
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 119
+target-version = ['py312']
+
+[tool.isort]
+profile = "black"
+line_length = 119
+
+
+[tool.flake8]
+max-line-length = 119
+exclude = [
+    ".git/",
+    "__pycache__/",
+    ".venv/"
+]
+
+[tool.mypy]
+mypy_path = "src"
+follow_imports = "silent"
+strict_optional = true
+warn_return_any = true
+disallow_untyped_defs = true
+exclude = [
+    "venv/",
+    ".venv/",
+]

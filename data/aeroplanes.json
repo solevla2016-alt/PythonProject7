@@ -99334,5 +99334,1109 @@
         "country": "United States",
         "velocity": 243.15,
         "altitude": 10965.18
+    },
+    {
+        "callsign": "MBU7MX",
+        "country": "Estonia",
+        "velocity": 9.77,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "SWR17K",
+        "country": "Switzerland",
+        "velocity": 183.51,
+        "altitude": 6225.54
+    },
+    {
+        "callsign": "SWR147",
+        "country": "Switzerland",
+        "velocity": 235.37,
+        "altitude": 12009.12
+    },
+    {
+        "callsign": "WMT4AJ",
+        "country": "Hungary",
+        "velocity": 218.73,
+        "altitude": 10789.92
+    },
+    {
+        "callsign": "DLH9853",
+        "country": "Germany",
+        "velocity": 257.26,
+        "altitude": 12092.94
+    },
+    {
+        "callsign": "QFA1",
+        "country": "Australia",
+        "velocity": 237.87,
+        "altitude": 11376.66
+    },
+    {
+        "callsign": "DLH769",
+        "country": "Germany",
+        "velocity": 88.46,
+        "altitude": 1036.32
+    },
+    {
+        "callsign": "DAL202",
+        "country": "United States",
+        "velocity": 252.89,
+        "altitude": 11704.32
+    },
+    {
+        "callsign": "DLH573",
+        "country": "Germany",
+        "velocity": 125.45,
+        "altitude": 1897.38
+    },
+    {
+        "callsign": "RTT1",
+        "country": "Switzerland",
+        "velocity": 0.0,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "ACA896",
+        "country": "Canada",
+        "velocity": 256.98,
+        "altitude": 11704.32
+    },
+    {
+        "callsign": "DLH781",
+        "country": "Germany",
+        "velocity": 240.7,
+        "altitude": 8823.96
+    },
+    {
+        "callsign": "DLH577",
+        "country": "Germany",
+        "velocity": 0.0,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "SWR87F",
+        "country": "Switzerland",
+        "velocity": 239.27,
+        "altitude": 10538.46
+    },
+    {
+        "callsign": "ALT777",
+        "country": "Switzerland",
+        "velocity": 0.0,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "ATL781",
+        "country": "Switzerland",
+        "velocity": 3.6,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "TE782",
+        "country": "Switzerland",
+        "velocity": 0.9,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "DLH1331",
+        "country": "Germany",
+        "velocity": 20.06,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "GALA26",
+        "country": "Switzerland",
+        "velocity": 1.8,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "VIKTOR38",
+        "country": "Switzerland",
+        "velocity": 6.17,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "GPX3JX",
+        "country": "Bulgaria",
+        "velocity": 232.74,
+        "altitude": 9685.02
+    },
+    {
+        "callsign": "ANA205",
+        "country": "Japan",
+        "velocity": 263.88,
+        "altitude": 12291.06
+    },
+    {
+        "callsign": "DLH443",
+        "country": "Germany",
+        "velocity": 96.52,
+        "altitude": 1242.06
+    },
+    {
+        "callsign": "DLH409",
+        "country": "Germany",
+        "velocity": 186.69,
+        "altitude": 4625.34
+    },
+    {
+        "callsign": "EISBAER1",
+        "country": "Switzerland",
+        "velocity": 8.23,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "TRA207",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 211.91,
+        "altitude": 11064.24
+    },
+    {
+        "callsign": "CPA3015",
+        "country": "China",
+        "velocity": 225.86,
+        "altitude": 9784.08
+    },
+    {
+        "callsign": "UAE1KM",
+        "country": "United Arab Emirates",
+        "velocity": 253.25,
+        "altitude": 11369.04
+    },
+    {
+        "callsign": "THY6087",
+        "country": "Turkey",
+        "velocity": 241.74,
+        "altitude": 10157.46
+    },
+    {
+        "callsign": "CHH491",
+        "country": "China",
+        "velocity": 16.46,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "00000000",
+        "country": "Czech Republic",
+        "velocity": 6.94,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "HVN19",
+        "country": "Viet Nam",
+        "velocity": 247.42,
+        "altitude": 12024.36
+    },
+    {
+        "callsign": "CCA875",
+        "country": "China",
+        "velocity": 243.22,
+        "altitude": 10142.22
+    },
+    {
+        "callsign": "SXS5E",
+        "country": "Turkey",
+        "velocity": 175.68,
+        "altitude": 4168.14
+    },
+    {
+        "callsign": "UAE8ER",
+        "country": "United Arab Emirates",
+        "velocity": 253.64,
+        "altitude": 10104.12
+    },
+    {
+        "callsign": "UAL52",
+        "country": "United States",
+        "velocity": 150.16,
+        "altitude": 4716.78
+    },
+    {
+        "callsign": "HVN11",
+        "country": "Viet Nam",
+        "velocity": 246.05,
+        "altitude": 12031.98
+    },
+    {
+        "callsign": "KLM810",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 172.86,
+        "altitude": 7261.86
+    },
+    {
+        "callsign": "MFX7617",
+        "country": "Uzbekistan",
+        "velocity": 209.4,
+        "altitude": 8877.3
+    },
+    {
+        "callsign": "BEL38K",
+        "country": "Belgium",
+        "velocity": 216.42,
+        "altitude": 12009.12
+    },
+    {
+        "callsign": "CSH871",
+        "country": "China",
+        "velocity": 237.3,
+        "altitude": 11338.56
+    },
+    {
+        "callsign": "HVN37",
+        "country": "Viet Nam",
+        "velocity": 257.84,
+        "altitude": 10614.66
+    },
+    {
+        "callsign": "CCA967",
+        "country": "China",
+        "velocity": 233.18,
+        "altitude": 11376.66
+    },
+    {
+        "callsign": "UAE88F",
+        "country": "United Arab Emirates",
+        "velocity": 241.35,
+        "altitude": 10713.72
+    },
+    {
+        "callsign": "SIA322",
+        "country": "Singapore",
+        "velocity": 235.77,
+        "altitude": 11369.04
+    },
+    {
+        "callsign": "UAE9977",
+        "country": "United Arab Emirates",
+        "velocity": 247.35,
+        "altitude": 10203.18
+    },
+    {
+        "callsign": "CLX309",
+        "country": "Luxembourg",
+        "velocity": 241.69,
+        "altitude": 10165.08
+    },
+    {
+        "callsign": "ETH8639",
+        "country": "Ethiopia",
+        "velocity": 117.66,
+        "altitude": 1882.14
+    },
+    {
+        "callsign": "CLX58",
+        "country": "Luxembourg",
+        "velocity": 243.31,
+        "altitude": 10203.18
+    },
+    {
+        "callsign": "CES249",
+        "country": "China",
+        "velocity": 250.85,
+        "altitude": 11620.5
+    },
+    {
+        "callsign": "CES243",
+        "country": "China",
+        "velocity": 228.95,
+        "altitude": 10728.96
+    },
+    {
+        "callsign": "TUI3BL",
+        "country": "Germany",
+        "velocity": 243.08,
+        "altitude": 10149.84
+    },
+    {
+        "callsign": "CHH759",
+        "country": "China",
+        "velocity": 231.7,
+        "altitude": 8039.1
+    },
+    {
+        "callsign": "GEC8374",
+        "country": "Germany",
+        "velocity": 248.7,
+        "altitude": 9311.64
+    },
+    {
+        "callsign": "ETH718",
+        "country": "Ethiopia",
+        "velocity": 236.4,
+        "altitude": 11993.88
+    },
+    {
+        "callsign": "TVS2756",
+        "country": "Czech Republic",
+        "velocity": 1.29,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "BTI9812",
+        "country": "Latvia",
+        "velocity": 115.91,
+        "altitude": 4099.56
+    },
+    {
+        "callsign": "SIA26",
+        "country": "Singapore",
+        "velocity": 236.72,
+        "altitude": 9593.58
+    },
+    {
+        "callsign": "TAY1KN",
+        "country": "France",
+        "velocity": 233.99,
+        "altitude": 11087.1
+    },
+    {
+        "callsign": "AFR36UT",
+        "country": "France",
+        "velocity": 0.0,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "KLM569",
+        "country": "Kingdom of the Netherlands",
+        "velocity": 247.74,
+        "altitude": 11414.76
+    },
+    {
+        "callsign": "AP11",
+        "country": "Germany",
+        "velocity": 3.34,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "CHH727",
+        "country": "China",
+        "velocity": 238.27,
+        "altitude": 12237.72
+    },
+    {
+        "callsign": "PGT1665",
+        "country": "Turkey",
+        "velocity": 181.21,
+        "altitude": 4541.52
+    },
+    {
+        "callsign": "VKG4998",
+        "country": "Denmark",
+        "velocity": 239.63,
+        "altitude": 12009.12
+    },
+    {
+        "callsign": "ETH3706",
+        "country": "Ethiopia",
+        "velocity": 130.57,
+        "altitude": 2225.04
+    },
+    {
+        "callsign": "ETH500",
+        "country": "Ethiopia",
+        "velocity": 247.22,
+        "altitude": 10546.08
+    },
+    {
+        "callsign": "CFG303",
+        "country": "Germany",
+        "velocity": 125.85,
+        "altitude": 2849.88
+    },
+    {
+        "callsign": "EWG4UA",
+        "country": "Germany",
+        "velocity": 201.86,
+        "altitude": 8442.96
+    },
+    {
+        "callsign": "BAW12",
+        "country": "United Kingdom",
+        "velocity": 237.6,
+        "altitude": 11384.28
+    },
+    {
+        "callsign": "BOX627",
+        "country": "Germany",
+        "velocity": 6.43,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "BOX385",
+        "country": "Germany",
+        "velocity": 255.38,
+        "altitude": 10416.54
+    },
+    {
+        "callsign": "CCA961",
+        "country": "China",
+        "velocity": 221.79,
+        "altitude": 10195.56
+    },
+    {
+        "callsign": "RYR74JT",
+        "country": "Malta",
+        "velocity": 77.15,
+        "altitude": 548.64
+    },
+    {
+        "callsign": "BAW64",
+        "country": "United Kingdom",
+        "velocity": 243.56,
+        "altitude": 11376.66
+    },
+    {
+        "callsign": "ACA840",
+        "country": "Canada",
+        "velocity": 19.55,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "RYR55NW",
+        "country": "Ireland",
+        "velocity": 0.06,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "CPA271",
+        "country": "China",
+        "velocity": 168.62,
+        "altitude": 6187.44
+    },
+    {
+        "callsign": "CPA261",
+        "country": "China",
+        "velocity": 250.01,
+        "altitude": 12016.74
+    },
+    {
+        "callsign": "CSW6KP",
+        "country": "Switzerland",
+        "velocity": 0.0,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "WZZ9268",
+        "country": "Malta",
+        "velocity": 202.73,
+        "altitude": 7840.98
+    },
+    {
+        "callsign": "SWR8YP",
+        "country": "Switzerland",
+        "velocity": 0.0,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "THA930",
+        "country": "Thailand",
+        "velocity": 239.52,
+        "altitude": 10767.06
+    },
+    {
+        "callsign": "THA920",
+        "country": "Thailand",
+        "velocity": 11.32,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "SWR139",
+        "country": "Switzerland",
+        "velocity": 182.19,
+        "altitude": 7033.26
+    },
+    {
+        "callsign": "CCA965",
+        "country": "China",
+        "velocity": 129.57,
+        "altitude": 2423.16
+    },
+    {
+        "callsign": "SWR542D",
+        "country": "Switzerland",
+        "velocity": 200.2,
+        "altitude": 9067.8
+    },
+    {
+        "callsign": "EJU8628",
+        "country": "Austria",
+        "velocity": 223.57,
+        "altitude": 11391.9
+    },
+    {
+        "callsign": "SWR4AZ",
+        "country": "Switzerland",
+        "velocity": 87.88,
+        "altitude": 1630.68
+    },
+    {
+        "callsign": "SWR1PM",
+        "country": "Switzerland",
+        "velocity": 232.04,
+        "altitude": 11681.46
+    },
+    {
+        "callsign": "SWR183B",
+        "country": "Switzerland",
+        "velocity": 8.75,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "SWR5P",
+        "country": "Switzerland",
+        "velocity": 210.02,
+        "altitude": 10820.4
+    },
+    {
+        "callsign": "DLH1TN",
+        "country": "Germany",
+        "velocity": 267.1,
+        "altitude": 6819.9
+    },
+    {
+        "callsign": "DLH6JV",
+        "country": "Germany",
+        "velocity": 51.12,
+        "altitude": 152.4
+    },
+    {
+        "callsign": "DLH9CW",
+        "country": "Germany",
+        "velocity": 1.8,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "CHX33",
+        "country": "Germany",
+        "velocity": 1.85,
+        "altitude": 182.88
+    },
+    {
+        "callsign": "DLH3EL",
+        "country": "Germany",
+        "velocity": 0.0,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "DLH7P",
+        "country": "Germany",
+        "velocity": 179.47,
+        "altitude": 4038.6
+    },
+    {
+        "callsign": "DLH885",
+        "country": "Germany",
+        "velocity": 77.01,
+        "altitude": 335.28
+    },
+    {
+        "callsign": "SWR67G",
+        "country": "Switzerland",
+        "velocity": 72.04,
+        "altitude": 525.78
+    },
+    {
+        "callsign": "DLH2HP",
+        "country": "Germany",
+        "velocity": 222.06,
+        "altitude": 11049.0
+    },
+    {
+        "callsign": "DLH7FL",
+        "country": "Germany",
+        "velocity": 139.55,
+        "altitude": 1638.3
+    },
+    {
+        "callsign": "DLH1305",
+        "country": "Germany",
+        "velocity": 190.48,
+        "altitude": 3101.34
+    },
+    {
+        "callsign": "DLH2457",
+        "country": "Germany",
+        "velocity": 233.8,
+        "altitude": 11666.22
+    },
+    {
+        "callsign": "DLH4UV",
+        "country": "Germany",
+        "velocity": 216.23,
+        "altitude": 6667.5
+    },
+    {
+        "callsign": "RCH569",
+        "country": "United States",
+        "velocity": 63.88,
+        "altitude": 373.38
+    },
+    {
+        "callsign": "EWG4339",
+        "country": "Germany",
+        "velocity": 202.11,
+        "altitude": 9837.42
+    },
+    {
+        "callsign": "DLH587",
+        "country": "Germany",
+        "velocity": 163.83,
+        "altitude": 4526.28
+    },
+    {
+        "callsign": "DLH924",
+        "country": "Germany",
+        "velocity": 210.94,
+        "altitude": 10027.92
+    },
+    {
+        "callsign": "DLH333",
+        "country": "Germany",
+        "velocity": 209.27,
+        "altitude": 4701.54
+    },
+    {
+        "callsign": "DLH4EK",
+        "country": "Germany",
+        "velocity": 190.69,
+        "altitude": 5372.1
+    },
+    {
+        "callsign": "EJU87NZ",
+        "country": "Austria",
+        "velocity": 200.59,
+        "altitude": 9212.58
+    },
+    {
+        "callsign": "AUA21V",
+        "country": "Austria",
+        "velocity": 213.83,
+        "altitude": 10226.04
+    },
+    {
+        "callsign": "NSZ4AW",
+        "country": "Sweden",
+        "velocity": 226.55,
+        "altitude": 10690.86
+    },
+    {
+        "callsign": "WMT896",
+        "country": "Hungary",
+        "velocity": 186.31,
+        "altitude": 7033.26
+    },
+    {
+        "callsign": "WMT8840",
+        "country": "Hungary",
+        "velocity": 90.61,
+        "altitude": 1272.54
+    },
+    {
+        "callsign": "AAL70",
+        "country": "United States",
+        "velocity": 11.83,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "WZZ692Q",
+        "country": "Hungary",
+        "velocity": 187.6,
+        "altitude": 8915.4
+    },
+    {
+        "callsign": "DLH7LF",
+        "country": "Germany",
+        "velocity": 139.46,
+        "altitude": 1485.9
+    },
+    {
+        "callsign": "DLH68P",
+        "country": "Germany",
+        "velocity": 69.0,
+        "altitude": 274.32
+    },
+    {
+        "callsign": "WMT441",
+        "country": "Hungary",
+        "velocity": 227.63,
+        "altitude": 10180.32
+    },
+    {
+        "callsign": "DLH6KX",
+        "country": "Germany",
+        "velocity": 221.88,
+        "altitude": 10988.04
+    },
+    {
+        "callsign": "DLH5KF",
+        "country": "Germany",
+        "velocity": 142.4,
+        "altitude": 2545.08
+    },
+    {
+        "callsign": "DLH54U",
+        "country": "Germany",
+        "velocity": 209.87,
+        "altitude": 6697.98
+    },
+    {
+        "callsign": "WZZ62DN",
+        "country": "Hungary",
+        "velocity": 235.89,
+        "altitude": 10759.44
+    },
+    {
+        "callsign": "DLH7VT",
+        "country": "Germany",
+        "velocity": 182.72,
+        "altitude": 6637.02
+    },
+    {
+        "callsign": "DLH5TP",
+        "country": "Germany",
+        "velocity": 109.45,
+        "altitude": 952.5
+    },
+    {
+        "callsign": "DLH2WT",
+        "country": "Germany",
+        "velocity": 71.41,
+        "altitude": 525.78
+    },
+    {
+        "callsign": "EJU78DG",
+        "country": "Austria",
+        "velocity": 188.47,
+        "altitude": 7345.68
+    },
+    {
+        "callsign": "DLH2465",
+        "country": "Germany",
+        "velocity": 203.56,
+        "altitude": 10728.96
+    },
+    {
+        "callsign": "DLH7MA",
+        "country": "Germany",
+        "velocity": 148.88,
+        "altitude": 3154.68
+    },
+    {
+        "callsign": "WMT477",
+        "country": "Hungary",
+        "velocity": 184.97,
+        "altitude": 7863.84
+    },
+    {
+        "callsign": "WMT287",
+        "country": "Hungary",
+        "velocity": 229.98,
+        "altitude": 11094.72
+    },
+    {
+        "callsign": "WZZ514W",
+        "country": "Hungary",
+        "velocity": 204.46,
+        "altitude": 5905.5
+    },
+    {
+        "callsign": "DLH765",
+        "country": "Germany",
+        "velocity": 251.53,
+        "altitude": 9326.88
+    },
+    {
+        "callsign": "AUA13H",
+        "country": "Austria",
+        "velocity": 199.56,
+        "altitude": 10210.8
+    },
+    {
+        "callsign": "WMT616",
+        "country": "Hungary",
+        "velocity": 218.0,
+        "altitude": 10149.84
+    },
+    {
+        "callsign": "DLH1457",
+        "country": "Germany",
+        "velocity": 230.68,
+        "altitude": 9342.12
+    },
+    {
+        "callsign": "DLH2FM",
+        "country": "Germany",
+        "velocity": 154.24,
+        "altitude": 3322.32
+    },
+    {
+        "callsign": "DLH3RJ",
+        "country": "Germany",
+        "velocity": 11.83,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "DLH8WU",
+        "country": "Germany",
+        "velocity": 227.37,
+        "altitude": 11132.82
+    },
+    {
+        "callsign": "DLH7AH",
+        "country": "Germany",
+        "velocity": 217.88,
+        "altitude": 9570.72
+    },
+    {
+        "callsign": "LHX172",
+        "country": "Germany",
+        "velocity": 158.97,
+        "altitude": 3032.76
+    },
+    {
+        "callsign": "LHX9WC",
+        "country": "Germany",
+        "velocity": 207.47,
+        "altitude": 11414.76
+    },
+    {
+        "callsign": "TE23",
+        "country": "Switzerland",
+        "velocity": 0.51,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "DLH463",
+        "country": "Germany",
+        "velocity": 6.17,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "AFR94YQ",
+        "country": "France",
+        "velocity": 222.92,
+        "altitude": 11308.08
+    },
+    {
+        "callsign": "DLH6HT",
+        "country": "Germany",
+        "velocity": 214.61,
+        "altitude": 9395.46
+    },
+    {
+        "callsign": "LHX2X",
+        "country": "Germany",
+        "velocity": 215.53,
+        "altitude": 9029.7
+    },
+    {
+        "callsign": "AFR11JK",
+        "country": "France",
+        "velocity": 234.43,
+        "altitude": 11391.9
+    },
+    {
+        "callsign": "DLH1LX",
+        "country": "Germany",
+        "velocity": 199.61,
+        "altitude": 5257.8
+    },
+    {
+        "callsign": "DLH976",
+        "country": "Germany",
+        "velocity": 11.83,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "WZZ4066",
+        "country": "Hungary",
+        "velocity": 201.0,
+        "altitude": 8641.08
+    },
+    {
+        "callsign": "WZZ5QV",
+        "country": "Hungary",
+        "velocity": 212.59,
+        "altitude": 10828.02
+    },
+    {
+        "callsign": "WZZ4772",
+        "country": "Hungary",
+        "velocity": 225.71,
+        "altitude": 9906.0
+    },
+    {
+        "callsign": "WZZ99",
+        "country": "Hungary",
+        "velocity": 195.01,
+        "altitude": 6469.38
+    },
+    {
+        "callsign": "WZZ1073",
+        "country": "Hungary",
+        "velocity": 219.57,
+        "altitude": 10789.92
+    },
+    {
+        "callsign": "NJE3FD",
+        "country": "Portugal",
+        "velocity": 135.11,
+        "altitude": 2720.34
+    },
+    {
+        "callsign": "DLH759",
+        "country": "Germany",
+        "velocity": 242.11,
+        "altitude": 9525.0
+    },
+    {
+        "callsign": "BAW865",
+        "country": "United Kingdom",
+        "velocity": 233.61,
+        "altitude": 8976.36
+    },
+    {
+        "callsign": "EJU5193",
+        "country": "Austria",
+        "velocity": 173.98,
+        "altitude": 6042.66
+    },
+    {
+        "callsign": "DLH4RX",
+        "country": "Germany",
+        "velocity": 83.31,
+        "altitude": 106.68
+    },
+    {
+        "callsign": "AUA33L",
+        "country": "Austria",
+        "velocity": 208.83,
+        "altitude": 11399.52
+    },
+    {
+        "callsign": "ATL785",
+        "country": "Switzerland",
+        "velocity": 0.0,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "TE782",
+        "country": "Switzerland",
+        "velocity": 4.37,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "DLH2MH",
+        "country": "Germany",
+        "velocity": 198.35,
+        "altitude": 6697.98
+    },
+    {
+        "callsign": "DLH1YY",
+        "country": "Germany",
+        "velocity": 162.13,
+        "altitude": 2286.0
+    },
+    {
+        "callsign": "EWG4E",
+        "country": "Germany",
+        "velocity": 176.03,
+        "altitude": 4686.3
+    },
+    {
+        "callsign": "SWR5XL",
+        "country": "Switzerland",
+        "velocity": 3.34,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "CFG RV",
+        "country": "Germany",
+        "velocity": 155.04,
+        "altitude": 5387.34
+    },
+    {
+        "callsign": "DLH445",
+        "country": "Germany",
+        "velocity": 3.34,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "AUA56",
+        "country": "Austria",
+        "velocity": 252.97,
+        "altitude": 10424.16
+    },
+    {
+        "callsign": "DLH811",
+        "country": "Germany",
+        "velocity": 199.16,
+        "altitude": 9494.52
+    },
+    {
+        "callsign": "DLH6HR",
+        "country": "Germany",
+        "velocity": 174.29,
+        "altitude": 5166.36
+    },
+    {
+        "callsign": "DLH3K",
+        "country": "Germany",
+        "velocity": 92.61,
+        "altitude": 807.72
+    },
+    {
+        "callsign": "DLH7CK",
+        "country": "Germany",
+        "velocity": 225.2,
+        "altitude": 11049.0
+    },
+    {
+        "callsign": "DLH3PF",
+        "country": "Germany",
+        "velocity": 141.23,
+        "altitude": 1325.88
+    },
+    {
+        "callsign": "DLH5AF",
+        "country": "Germany",
+        "velocity": 234.53,
+        "altitude": 11330.94
+    },
+    {
+        "callsign": "DLH6RK",
+        "country": "Germany",
+        "velocity": 10.8,
+        "altitude": 0.0
+    },
+    {
+        "callsign": "EJU47JP",
+        "country": "Austria",
+        "velocity": 208.34,
+        "altitude": 11422.38
+    },
+    {
+        "callsign": "EJU49QU",
+        "country": "Austria",
+        "velocity": 222.82,
+        "altitude": 9547.86
+    },
+    {
+        "callsign": "EJU18QE",
+        "country": "Austria",
+        "velocity": 234.7,
+        "altitude": 11079.48
+    },
+    {
+        "callsign": "EZS93JH",
+        "country": "Switzerland",
+        "velocity": 175.24,
+        "altitude": 5295.9
+    },
+    {
+        "callsign": "SWR8QW",
+        "country": "Switzerland",
+        "velocity": 211.05,
+        "altitude": 7132.32
     }
 ]
