@@ -1,19 +1,22 @@
 import json
 from pathlib import Path
+from typing import List
+
+from src.models.aeroplane import Aeroplane
 
 from .base_storage import BaseStorage
 
 
 class JSONSaver(BaseStorage):
 
-    def __init__(self, filename="data/aeroplanes.json"):
+    def __init__(self, filename: str = "data/aeroplanes.json") -> None:
 
         self.__filename = Path(filename)
 
         if not self.__filename.exists():
             self.__filename.write_text("[]")
 
-    def add_aeroplane(self, aeroplane):
+    def add_aeroplane(self, aeroplane: Aeroplane) -> None:
 
         try:
             data = json.loads(self.__filename.read_text())
@@ -32,11 +35,24 @@ class JSONSaver(BaseStorage):
 
         self.__filename.write_text(json.dumps(data, indent=4))
 
-    def get_aeroplanes(self):
+    def get_aeroplanes(self) -> List[Aeroplane]:
 
-        return json.loads(self.__filename.read_text())
+        data = json.loads(self.__filename.read_text())
 
-    def delete_aeroplane(self, aeroplane):
+        planes: List[Aeroplane] = []
+
+        for item in data:
+            plane = Aeroplane(
+                item["callsign"],
+                item["country"],
+                item["velocity"],
+                item["altitude"],
+            )
+            planes.append(plane)
+
+        return planes
+
+    def delete_aeroplane(self, aeroplane: Aeroplane) -> None:
 
         data = json.loads(self.__filename.read_text())
 

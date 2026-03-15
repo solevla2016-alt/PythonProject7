@@ -215,11 +215,3 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-
-# Streamlit
-<<<<<<< HEAD
-.streamlit/secrets.toml
-
-=======
-.streamlit/secrets.toml
->>>>>>> 9651e5d89099947ec8dd3c2996d58d25f14aacea

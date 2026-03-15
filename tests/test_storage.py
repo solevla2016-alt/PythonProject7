@@ -15,7 +15,7 @@ def test_add_aeroplane(tmp_path):
     data = saver.get_aeroplanes()
 
     assert len(data) == 1
-    assert data[0]["callsign"] == "A1"
+    assert data[0].callsign == "A1"
 
 
 def test_no_duplicates(tmp_path):
